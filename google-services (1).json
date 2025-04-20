@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816510325666",
+    "project_id": "infinitylab-kti",
+    "storage_bucket": "infinitylab-kti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816510325666:android:d29bd777e01c190f3a58fb",
+        "android_client_info": {
+          "package_name": "infinitylab.kti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0GDreWR0obtH8sMP8el_5cQlbrba1SyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
